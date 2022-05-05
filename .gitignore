@@ -8,3 +8,4 @@ docs/build/
 *.xml
 *.pyc
 *.docx 
+*.ps1
