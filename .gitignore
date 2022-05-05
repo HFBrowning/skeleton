@@ -1,0 +1,10 @@
+__pycache__/
+logs/
+.idea/
+venv/
+docs/build/
+*.log
+*.js
+*.xml
+*.pyc
+*.docx 
